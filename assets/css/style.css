@@ -1,0 +1,41 @@
+/*================================================================================
+	Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.navbar-header .navbar-brand .brand-logo {
+	width: 140px !important;
+}
+
+.nav .dropdown .dropdown-menu .dropdown-item {
+	min-width: 205px !important;
+}
+
+.breadcrumb .breadcrumb-item i, .breadcrumb .breadcrumb-item a {
+	color: white !important;
+}
+
+.main-container {
+	margin-top: 50px;
+}
+
+.btn-action {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+.btn-action i {
+	margin-right: 5px;
+}
+
+.display-none {
+	display: none;
+}
